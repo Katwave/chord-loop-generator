@@ -1,0 +1,192 @@
+{
+  "Gospel": {
+    "Sad": [
+      ["Cmaj7", "Fmaj7", "G7", "Cmaj7"],
+      ["Am7", "Dm7", "G7", "Cmaj7"],
+      ["Fmaj7", "Bbmaj7", "C7", "Fmaj7"],
+      ["Dm7", "Gm7", "C7", "Fmaj7"],
+      ["Em7", "A7", "Dmaj7", "Dmaj7"]
+    ],
+    "Joyful": [
+      ["C", "G/B", "Am", "F", "C", "G/B", "Am", "F"],
+      ["F", "C/E", "Dm", "C", "F", "C/E", "Dm", "C"],
+      ["G", "D/F#", "Em", "C", "G", "D/F#", "Em", "C"],
+      ["A", "E/G#", "F#m", "D", "A", "E/G#", "F#m", "D"],
+      ["Bb", "F/A", "Gm", "Eb", "Bb", "F/A", "Gm", "Eb"]
+    ]
+  },
+  "Pop": {
+    "Happy": [
+      ["C", "G", "Am", "F"],
+      ["F", "C", "Dm", "Bb"],
+      ["G", "D", "Em", "C"],
+      ["A", "E", "F#m", "D"],
+      ["Bb", "F", "Gm", "Eb"],
+      ["C", "Am", "F", "G"],
+      ["D", "Bm", "G", "A"],
+      ["E", "C#m", "A", "B"],
+      ["F", "Dm", "Bb", "C"],
+      ["G", "Em", "C", "D"]
+    ],
+    "Sad": [
+      ["Am", "F", "C", "G"],
+      ["Em", "C", "G", "D"],
+      ["Bm", "G", "D", "A"],
+      ["F#m", "D", "A", "E"],
+      ["Cm", "Ab", "Eb", "Bb"],
+      ["Am7", "Fmaj7", "C", "G"],
+      ["Em7", "Cmaj7", "G", "D"],
+      ["Bm7", "Gmaj7", "D", "A"],
+      ["F#m7", "Dmaj7", "A", "E"],
+      ["Cm7", "Abmaj7", "Eb", "Bb"]
+    ]
+  },
+  "Rock": {
+    "Classic": [
+      ["E", "B", "C#m", "A"],
+      ["A", "D", "E", "A"],
+      ["G", "C", "D", "G"],
+      ["D", "G", "A", "D"],
+      ["C", "F", "G", "C"],
+      ["E", "A", "B", "E"],
+      ["F", "Bb", "C", "F"],
+      ["B", "E", "F#", "B"],
+      ["Eb", "Ab", "Bb", "Eb"],
+      ["G#", "C#", "D#", "G#"]
+    ],
+    "Bluesy": [
+      ["E7", "A7", "B7", "E7"],
+      ["A7", "D7", "E7", "A7"],
+      ["G7", "C7", "D7", "G7"],
+      ["D7", "G7", "A7", "D7"],
+      ["C7", "F7", "G7", "C7"],
+      ["E7", "A7", "B7", "E7", "A7", "D7", "E7", "E7"],
+      ["A7", "D7", "E7", "A7", "D7", "G7", "A7", "A7"],
+      ["G7", "C7", "D7", "G7", "C7", "F7", "G7", "G7"],
+      ["D7", "G7", "A7", "D7", "G7", "C7", "D7", "D7"],
+      ["C7", "F7", "G7", "C7", "F7", "Bb7", "C7", "C7"]
+    ]
+  },
+  "Jazz": {
+    "Standard": [
+      ["Dm7", "G7", "Cmaj7", "Cmaj7"],
+      ["Fmaj7", "Em7", "A7", "Dm7"],
+      ["Gm7", "C7", "Fmaj7", "Fmaj7"],
+      ["Bbmaj7", "Am7", "D7", "Gm7"],
+      ["Cm7", "F7", "Bbmaj7", "Bbmaj7"],
+      ["Am7", "D7", "Gmaj7", "Gmaj7"],
+      ["Em7", "A7", "Dmaj7", "Dmaj7"],
+      ["F#m7", "B7", "Emaj7", "Emaj7"],
+      ["Bbm7", "Eb7", "Abmaj7", "Abmaj7"],
+      ["Dbm7", "Gb7", "Bmaj7", "Bmaj7"]
+    ],
+    "Complex": [
+      ["Cmaj7", "A7", "Dm7", "G7"],
+      ["Em7", "A7", "Dm7", "G7"],
+      ["Fmaj7", "D7", "Gm7", "C7"],
+      ["Gmaj7", "E7", "Am7", "D7"],
+      ["Abmaj7", "F7", "Bbm7", "Eb7"],
+      ["Bmaj7", "G#7", "C#m7", "F#7"],
+      ["Dbmaj7", "Bb7", "Ebm7", "Ab7"],
+      ["Ebmaj7", "C7", "Fm7", "Bb7"],
+      ["F#maj7", "D#7", "G#m7", "C#7"],
+      ["Bbmaj7", "G7", "Cm7", "F7"]
+    ]
+  },
+  "Blues": {
+    "12-Bar": [
+      ["E7", "E7", "E7", "E7", "A7", "A7", "E7", "E7", "B7", "A7", "E7", "B7"],
+      ["A7", "A7", "A7", "A7", "D7", "D7", "A7", "A7", "E7", "D7", "A7", "E7"],
+      ["G7", "G7", "G7", "G7", "C7", "C7", "G7", "G7", "D7", "C7", "G7", "D7"],
+      ["D7", "D7", "D7", "D7", "G7", "G7", "D7", "D7", "A7", "G7", "D7", "A7"],
+      ["C7", "C7", "C7", "C7", "F7", "F7", "C7", "C7", "G7", "F7", "C7", "G7"]
+    ],
+    "Minor": [
+      ["Am7", "Dm7", "Am7", "Am7", "Dm7", "Dm7", "Am7", "Am7", "Em7", "Dm7", "Am7", "Em7"],
+      ["Dm7", "Gm7", "Dm7", "Dm7", "Gm7", "Gm7", "Dm7", "Dm7", "Am7", "Gm7", "Dm7", "Am7"],
+      ["Em7", "Am7", "Em7", "Em7", "Am7", "Am7", "Em7", "Em7", "Bm7", "Am7", "Em7", "Bm7"],
+      ["Gm7", "Cm7", "Gm7", "Gm7", "Cm7", "Cm7", "Gm7", "Gm7", "Dm7", "Cm7", "Gm7", "Dm7"],
+      ["Bbm7", "Ebm7", "Bbm7", "Bbm7", "Ebm7", "Ebm7", "Bbm7", "Bbm7", "Fm7", "Ebm7", "Bbm7", "Fm7"]
+    ]
+  },
+  "R&B": {
+    "Smooth": [
+      ["Am9", "Dm9", "Gmaj7", "Cmaj7"],
+      ["Fmaj7", "Dm7", "G7", "Cmaj7"],
+      ["Bbmaj7", "Gm7", "C7", "Fmaj7"],
+      ["Ebmaj7", "Cm7", "F7", "Bbmaj7"],
+      ["Abmaj7", "Fm7", "Bb7", "Ebmaj7"]
+    ],
+    "Groovy": [
+      ["Cm7", "Fm7", "Gm7", "Cm7"],
+      ["Dm7", "G7", "Em7", "A7"],
+      ["Fm7", "Bb7", "Gm7", "C7"],
+      ["Gm7", "C7", "Am7", "D7"],
+      ["Bbm7", "Eb7", "Cm7", "F7"]
+    ]
+  },
+  "Country": {
+    "Classic": [
+      ["G", "D", "C", "G"],
+      ["A", "E", "D", "A"],
+      ["C", "G", "F", "C"],
+      ["D", "A", "G", "D"],
+      ["E", "B", "A", "E"]
+    ],
+    "Ballad": [
+      ["G", "Em", "C", "D"],
+      ["C", "Am", "F", "G"],
+      ["D", "Bm", "G", "A"],
+      ["A", "F#m", "D", "E"],
+      ["E", "C#m", "A", "B"]
+    ]
+  },
+  "Electronic": {
+    "Dance": [
+      ["F", "Am", "C", "G"],
+      ["Cm", "Ab", "Eb", "Bb"],
+      ["Dm", "Bb", "F", "C"],
+      ["Em", "C", "G", "D"],
+      ["Gm", "Eb", "Bb", "F"]
+    ],
+    "Chill": [
+      ["Am7", "Fmaj7", "C6", "G6"],
+      ["Dm9", "G13", "Cmaj7", "A7"],
+      ["Em9", "A13", "Dmaj7", "B7"],
+      ["F#m9", "B13", "Emaj7", "C#7"],
+      ["Bbm9", "Eb13", "Abmaj7", "F7"]
+    ]
+  },
+  "Hip-Hop": {
+    "Lo-Fi": [
+      ["Am7", "Fmaj7", "C6", "G6"],
+      ["Bbm7", "Eb7", "Abmaj7", "Db7"],
+      ["Cm7", "F7", "Bbmaj7", "Eb7"],
+      ["Dm7", "G7", "Cmaj7", "F7"],
+      ["Em7", "A7", "Dmaj7", "G7"]
+    ],
+    "Trap": [
+      ["Cm", "Cm", "Cm", "Cm"],
+      ["D#maj7", "A#m7", "Gm7", "D#maj7"],
+      ["F#maj7", "C#m7", "Am7", "F#maj7"],
+      ["Amaj7", "Ebm7", "Cm7", "Amaj7"],
+      ["Dmaj7", "G#m7", "Fm7", "Dmaj7"]
+    ]
+  },
+  "Classical": {
+    "Romantic": [
+      ["C", "E7", "Am", "G7"],
+      ["F", "Dm", "Bb", "C"],
+      ["G", "E7", "Am", "D7"],
+      ["A", "F#7", "Bm", "E7"],
+      ["Bb", "G7", "Cm", "F7"]
+    ],
+    "Baroque": [
+      ["Dm", "A7", "Dm", "A7"],
+      ["Dm", "G", "C", "A7"],
+      ["Am", "E7", "Am", "E7"],
+      ["Am", "D", "G", "E7"],
+      ["Em", "B7", "Em", "B7"]
+    ]
+  }
+}
